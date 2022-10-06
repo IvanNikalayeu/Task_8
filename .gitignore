@@ -1,2 +1,4 @@
 .env
 ./data_for_task_8
+.test.by
+dags/.env
